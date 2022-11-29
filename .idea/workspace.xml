@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7d948840-81c0-4286-b5ee-f45a567dda58" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/tuits/tuit-list.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668914047699</updated>
-      <workItem from="1668914049522" duration="17998000" />
+      <workItem from="1668914049522" duration="20255000" />
     </task>
     <servers />
   </component>
