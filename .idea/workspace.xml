@@ -4,8 +4,6 @@
     <list default="true" id="7d948840-81c0-4286-b5ee-f45a567dda58" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/hello-controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/hello-controller.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controllers/tuits/tuits.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/tuits/tuits.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +55,7 @@
       <workItem from="1669852191813" duration="150000" />
       <workItem from="1669852409939" duration="580000" />
       <workItem from="1669853000997" duration="29000" />
-      <workItem from="1669853093641" duration="810000" />
+      <workItem from="1669853093641" duration="1904000" />
     </task>
     <servers />
   </component>
